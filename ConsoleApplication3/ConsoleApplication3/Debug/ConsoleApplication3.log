@@ -1,0 +1,5 @@
+﻿  ConsoleApplication3.cpp
+c:\users\lana\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(121): warning C4101: k: неиспользованная локальная переменная
+c:\users\lana\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(121): warning C4101: j: неиспользованная локальная переменная
+c:\users\lana\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(121): warning C4101: c: неиспользованная локальная переменная
+  ConsoleApplication3.vcxproj -> C:\Users\Lana\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
